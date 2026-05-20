@@ -6,11 +6,11 @@ Aplicación de escritorio en C# que permite gestionar reservas, clientes, mesas 
 
 ##Integrantes
 
-| Nombre | Rol | Responsabilidades principales |
-|---|---|---|
-| Integrante 1 | Líder técnico | Modelo, arquitectura y clases base |
-| Integrante 2 | Desarrollo GUI | Formularios, eventos y validaciones |
-| Integrante 3 | Documentación y pruebas | README, diagramas UML y presentación |
+| Nombre |
+|---|
+| Hilary David Ossa |
+| Sofia Hidalgo Cordoba | 
+| Emily Quintero Rivera | 
 
 ---
 
