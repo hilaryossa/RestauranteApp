@@ -124,17 +124,6 @@ Plato (abstracta)
 ├── PlatoPrincipal
 └── Postre
 ```
-
----
-
-## Capturas de pantalla
-
-```markdown
-![Ventana principal](docs/captura-principal.png)
-![Gestión de reservas](docs/captura-reservas.png)
-![Gestión de clientes](docs/captura-clientes.png)
-```
-
 ---
 
 ## Conceptos de POO aplicados
