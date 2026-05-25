@@ -41,30 +41,9 @@ Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los
 
 ##Requisitos previos
 
-- .NET SDK 8.0 o superior instalado → [Descargar](https://dotnet.microsoft.com/download)
+- .NET SDK 8.0 o superior instalado 
 - Windows 10/11 (WinForms requiere Windows)
 - Visual Studio 2022 o VS Code con extensión C#
-
----
-
-##Instalación
-
-```bash
-git clone https://github.com/tu-usuario/RestauranteReservas.git
-cd RestauranteReservas
-```
-
----
-
-##Ejecución
-
-**Desde terminal:**
-```bash
-dotnet run
-```
-
-**Desde Visual Studio:**  
-Abrir `RestauranteReservas.csproj` y presionar `F5` o el botón **Start**.
 
 ---
 
@@ -154,8 +133,6 @@ Plato (abstracta)
 
 ##Capturas de pantalla
 
-> *(Agregar capturas después de ejecutar la aplicación)*
-
 ```markdown
 ![Ventana principal](docs/captura-principal.png)
 ![Gestión de reservas](docs/captura-reservas.png)
@@ -195,8 +172,6 @@ Plato (abstracta)
 ---
 
 ##Declaración de uso de IA
-
-*(Completar por el equipo según lo indicado en la guía del proyecto)*
 
 ```
 Herramienta utilizada: ...
