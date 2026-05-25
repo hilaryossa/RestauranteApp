@@ -1,10 +1,10 @@
-##Sistema de Reservas – Restaurante
+## Sistema de Reservas – Restaurante
 
 Aplicación de escritorio en C# que permite gestionar reservas, clientes, mesas y el menú de un restaurante. Desarrollada como proyecto final del curso **Herramientas de Programación I**.
 
 ---
 
-##Integrantes
+## Integrantes
 
 | Nombre |
 |---|
@@ -14,13 +14,13 @@ Aplicación de escritorio en C# que permite gestionar reservas, clientes, mesas 
 
 ---
 
-##Descripción del problema
+## Descripción del problema
 
 Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los clientes llaman para reservar una mesa en una fecha y hora específica; el personal debe poder registrar, confirmar, cancelar y completar reservas, así como administrar las mesas disponibles y el menú.
 
 ---
 
-##Objetivo del sistema
+## Objetivo del sistema
 
 - Registrar clientes con sus datos de contacto.
 - Administrar las mesas del restaurante (número, capacidad, ubicación y estado).
@@ -30,7 +30,7 @@ Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los
 
 ---
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **C#** con **.NET 8.0**
 - **Windows Forms (WinForms)**
@@ -39,7 +39,7 @@ Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los
 
 ---
 
-##Requisitos previos
+## Requisitos previos
 
 - .NET SDK 8.0 o superior instalado 
 - Windows 10/11 (WinForms requiere Windows)
@@ -47,7 +47,7 @@ Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los
 
 ---
 
-##Funcionalidades principales
+## Funcionalidades principales
 
 | Módulo | Funcionalidades |
 |---|---|
@@ -58,7 +58,7 @@ Un restaurante necesita gestionar sus reservas de mesas de forma organizada. Los
 
 ---
 
-##Estructura del proyecto
+## Estructura del proyecto
 
 ```
 RestauranteReservas/
@@ -91,7 +91,7 @@ RestauranteReservas/
 
 ---
 
-##Arquitectura
+## Arquitectura
 
 ```
 [ Vista / FormXxx ]
@@ -110,11 +110,7 @@ RestauranteReservas/
 
 ---
 
-##Diagrama UML
-
-![Diagrama de clases](Diagramas/diagrama-clases.png)
-
-###Jerarquías de herencia
+## Jerarquías de herencia
 
 ```
 Persona (abstracta)
@@ -131,7 +127,7 @@ Plato (abstracta)
 
 ---
 
-##Capturas de pantalla
+## Capturas de pantalla
 
 ```markdown
 ![Ventana principal](docs/captura-principal.png)
@@ -141,7 +137,7 @@ Plato (abstracta)
 
 ---
 
-##Conceptos de POO aplicados
+## Conceptos de POO aplicados
 
 | Concepto | Dónde se aplica |
 |---|---|
@@ -153,7 +149,7 @@ Plato (abstracta)
 
 ---
 
-##Limitaciones conocidas
+## Limitaciones conocidas
 
 - Los datos se almacenan solo en memoria; al cerrar la aplicación se pierden.
 - No implementa autenticación de usuarios.
@@ -161,7 +157,7 @@ Plato (abstracta)
 
 ---
 
-##Mejoras futuras
+## Mejoras futuras
 
 - Persistencia en archivos JSON o base de datos SQLite.
 - Módulo de pedidos asociados a reservas.
@@ -171,7 +167,7 @@ Plato (abstracta)
 
 ---
 
-##Declaración de uso de IA
+## Declaración de uso de IA
 
 ```
 Herramienta utilizada: ...
@@ -186,7 +182,7 @@ Declaración: el equipo comprende el código entregado y puede explicarlo en la 
 
 ---
 
-##Licencia y créditos
+## Licencia y créditos
 
 Proyecto académico desarrollado para el curso Herramientas de Programación I.  
 Sin licencia comercial.
