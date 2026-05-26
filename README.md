@@ -135,7 +135,7 @@ RestauranteReservas/
 
 ## Diagrama UML
 
-![diagrama clases](docs/diagramas/diagrama-clases.png)
+[Ver diagrama de clases completo](docs/diagramas/diagrama_clases_restaurante.pdf)
 
 ### Jerarquías de herencia
 
