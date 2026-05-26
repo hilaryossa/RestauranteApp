@@ -1,0 +1,14 @@
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\bin\Debug\net8.0-windows\RestauranteReservas.exe
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\bin\Debug\net8.0-windows\RestauranteReservas.deps.json
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\bin\Debug\net8.0-windows\RestauranteReservas.runtimeconfig.json
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\bin\Debug\net8.0-windows\RestauranteReservas.dll
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\bin\Debug\net8.0-windows\RestauranteReservas.pdb
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.AssemblyInfoInputs.cache
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.AssemblyInfo.cs
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.csproj.CoreCompileInputs.cache
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.dll
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\refint\RestauranteReservas.dll
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.pdb
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\RestauranteReservas.genruntimeconfig.cache
+C:\Users\PC-HOGAR\Desktop\Tareas Sofi\Proyecto final de herramientas 1\RestauranteReservas_completo\RestauranteReservas\obj\Debug\net8.0-windows\ref\RestauranteReservas.dll
